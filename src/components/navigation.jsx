@@ -73,7 +73,7 @@ export const Navigation = (props) => {
                 className="btn btn-primary"
                 style={{ marginLeft: "10px" }}
               >
-                Add Blog
+                Sign Up
               </button>
             </li>
           </ul>
