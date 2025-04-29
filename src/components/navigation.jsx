@@ -62,6 +62,20 @@ export const Navigation = (props) => {
                 Contact
               </a>
             </li>
+            <li style={{ marginTop: "10px" }}>
+              <button type="button" className="btn btn-primary">
+                Login
+              </button>
+            </li>
+            <li style={{ marginTop: "10px" }}>
+              <button
+                type="button"
+                className="btn btn-primary"
+                style={{ marginLeft: "10px" }}
+              >
+                Add Blog
+              </button>
+            </li>
           </ul>
         </div>
       </div>
