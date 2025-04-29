@@ -68,24 +68,25 @@
   "Services": [
     {
       "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "What Is the Cloud? A Beginner’s Guide to Cloud Computing",
+      "text": "Have you ever heard people say 'save it to the cloud' and wondered what they meant? The cloud simply refers to servers that store your data online instead of on your computer. In this guide, we'll explain what the cloud is, why it’s safe, and how you already use it every day — from Google Drive to iCloud."
+
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "How to Use a Computer Mouse: A Beginner’s Guide",
+      "text": "Learn the basics of using a computer mouse.Move the cursor by moving the mouse. Left-click to select things. Right-click to open extra options like menus."
     },
     {
       "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "What Is an Operating System? A Beginner's Introduction",
+      "text": "An operating system (OS) controls the basic functions of your computer — opening files, running apps, etc. Popular examples include Windows, macOS, and Linux."
     },
     {
       "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
+      "name": "How to Set Up a New Computer: Step-by-Step",
+      "text": ""
+      },
     {
       "icon": "fa fa-plane",
       "name": "Lorem ipsum dolor",
