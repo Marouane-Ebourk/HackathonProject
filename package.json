@@ -1,6 +1,6 @@
 {
     "name": "landingpage-react-template",
-    "private": true,
+    "private": true,  
     "dependencies": {
         "@testing-library/jest-dom": "^4.2.4",
         "@testing-library/react": "^9.3.2",
@@ -11,6 +11,7 @@
         "react-scripts": "^5.0.1",
         "smooth-scroll": "^16.1.3"
     },
+    "homepage": "https://marouane-ebourk.github.io/HackathonProject",
     "scripts": {
         "start": "react-scripts start",
         "build": "react-scripts build",
