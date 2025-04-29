@@ -28,11 +28,6 @@ export const Navigation = (props) => {
         >
           <ul className="nav navbar-nav navbar-right">
             <li>
-              <a href="#features" className="page-scroll">
-                Features
-              </a>
-            </li>
-            <li>
               <a href="#about" className="page-scroll">
                 About
               </a>
@@ -43,24 +38,28 @@ export const Navigation = (props) => {
               </a>
             </li>
             <li>
-              <a href="#portfolio" className="page-scroll">
-                Gallery
-              </a>
-            </li>
-            <li>
               <a href="#testimonials" className="page-scroll">
                 Testimonials
-              </a>
-            </li>
-            <li>
-              <a href="#team" className="page-scroll">
-                Team
               </a>
             </li>
             <li>
               <a href="#contact" className="page-scroll">
                 Contact
               </a>
+            </li>
+            <li style={{ marginTop: "10px" }}>
+              <button type="button" className="btn btn-primary">
+                Login
+              </button>
+            </li>
+            <li style={{ marginTop: "10px" }}>
+              <button
+                type="button"
+                className="btn btn-primary"
+                style={{ marginLeft: "10px" }}
+              >
+                Sign Up
+              </button>
             </li>
           </ul>
         </div>
