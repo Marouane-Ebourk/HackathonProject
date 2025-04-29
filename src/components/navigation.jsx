@@ -49,7 +49,7 @@ export const Navigation = (props) => {
             </li>
             <li style={{ marginTop: "10px" }}>
               <button type="button" className="btn btn-primary">
-                Sign In
+                Login
               </button>
             </li>
             <li style={{ marginTop: "10px" }}>
